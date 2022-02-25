@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general mistake co[r]rected, or, The vindiction of the right honourable the Countess Dowager of Essex and the bishop of Salisbury in the gazette of the 31st of July last : no argument against, but for the truth of the murder of that great patriot Arthur, late, Earl of Essex : in a letter to a friend, August the 2d, 1690.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65349</idno>
+            <idno type="STC">Wing W120</idno>
+            <idno type="STC">ESTC R7160</idno>
+            <idno type="EEBO-CITATION">13510719</idno>
+            <idno type="OCLC">ocm 13510719</idno>
+            <idno type="VID">99839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 480:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general mistake co[r]rected, or, The vindiction of the right honourable the Countess Dowager of Essex and the bishop of Salisbury in the gazette of the 31st of July last : no argument against, but for the truth of the murder of that great patriot Arthur, late, Earl of Essex : in a letter to a friend, August the 2d, 1690.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T. W.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burnet, Gilbert, 1643-1715.</term>
+               <term>Essex, Arthur Capel, --  Earl of, 1631-1683.</term>
+               <term>Essex, Elizabeth Percy Capel, --  Countess of, d. 1717.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99839:1"/>
+            <pb facs="tcp:99839:1" rendition="simple:additions"/>
+            <head>A General Miſtake, Corrected: OR THE VINDICATION OF THE Right Honourable the Counteſs Dowager of ESSEX, AND THE Biſhop of SALISBURY; In the <hi>GAZETTE</hi> of the <hi>31ſt</hi> of <hi>July</hi> laſt. <hi>No Argument againſt, but for the truth of the Murder of that Great Patriot,</hi> Arthur <hi>(late) Earl of</hi> ESSEX.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>In a Letter to a Friend,</head>
+                  <opener>
+                     <dateline>
+                        <date>Auguſt <hi>the</hi> 2d. 1690.</date>
+                     </dateline>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IN laſt <hi>Thurſdays</hi> Gazette, you will find, the Right Honourable, the Coun<g ref="char:EOLhyphen"/>teſs <hi>Dowager</hi> of <hi>Eſſex,</hi> and the Reverend Father in God, <hi>Gilbert,</hi> Lord Biſhop of <hi>Salisbury,</hi> have entirely diſavow'd, what a Diſcourſe touching the Murther of the late Earl of <hi>Eſſex</hi> hath faſtned on them. Their Denyal is thus worded: (Viz.)</p>
+                  <p>
+                     <q>Whereas in a Letter to a Friend, written by Mr. <hi>Lawrence Braddon,</hi> touching the Murther of the late E. of <hi>Eſſex,</hi> an Account is given, <hi>Page</hi> 54, and 55, of ſome Diſcourſe, that the Counteſs <hi>Dowager</hi> of <hi>Eſſex,</hi> and the Biſhop of <hi>Salisbury</hi> had upon that Subject, at a Meeting with ſeveral Lords. The Counteſs <hi>Dowager</hi> and the Biſhop, find themſelves ſo much w<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>g'd in that Relation, that they have thought it became them, to <hi>Diſavow it in<g ref="char:EOLhyphen"/>tirely, the whole Diſcourſe faſtned on them, being falſe, and nothing to THAT P<g ref="char:V">Ʋ</g>RPOSE, having been upon that Occaſion mentioned by either of them.</hi>
+                     </q>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>July 24.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>E. Eſſex,</hi>
+                           </item>
+                           <item>
+                              <hi>Gil. Sarum.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I perceive this is (through Miſtake) generally miſapply'd; for laſt Night meeting with ſome, who (had been ever prejudic'd againſt the belief of this Murder, and) had often heard me ſay, That I doubted not, but that un<g ref="char:EOLhyphen"/>fortunate Earl was treacherouſly taken off, and that I was therein confirm'd upon reading a late <hi>Letter</hi> to a Friend, written by Mr. <hi>Braddon</hi> upon that deplorable Subject. Theſe Gentlemen believing, that by this Gazette they had got an Objection, which at one Stroke intirely defeated the whole Power of the Proofs in that Letter, (which they confeſs'd they had not read) imme<g ref="char:EOLhyphen"/>diately very warmly accoſted me herewith; and upon this occaſion very <hi>ſcur<g ref="char:EOLhyphen"/>rilouſly reflected</hi> upon Mr. <hi>Braddon,</hi> for impoſing upon the World, ſuch (as they call'd them) villanous and falſe Proofs for that (pretended) Murder — I (not then remembring that particular part of the Book, to which this deny<g ref="char:EOLhyphen"/>all had Relation) did immediately fetch the Diſcourſe, and I then found, that this <hi>Vindication</hi> was ſo far from <hi>denying</hi> any of the Proofs which had been brought to teſtifie that Treachery, that on the <hi>contrary,</hi> it <hi>intirely diſavow'd</hi> the moſt <hi>material Argument,</hi> I could ever yet hear brought to juſtifie the Belief of the Self-murder, which that Letter mentioneth in pag. 54, &amp; 55, where Mr. <hi>Braddon</hi> (after he had given numerous Evidences in many Parti<g ref="char:EOLhyphen"/>culars, which put together, almoſt demonſtrate the truth of that complicated Cruelty) ſaith, by way of Objection againſt the Murder, as followeth, <hi>(Viz.)</hi>
+            </p>
+            <pb n="2" facs="tcp:99839:2"/>
+            <p>I ſhall now mention one or two more Objections againſt my Lord's being murther'd and then draw to a Concluſion. The firſt is this, <hi>(viz.)</hi> the Right Honourable the Lady Gou<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſs-Dowage of <hi>Eſſex,</hi> having heretofore declared (whether lately, I cannot ſay) That ſhe did believe her Lord cut his own Throat; and being ſo poſſeſſed, ſome time after this Committee had ſeveral times ſate, ſhe deſired ſeveral Lords (amongſt which ſome were of this Right Honourable Committee) to meet at her Houſe; and after her Honour had ac<g ref="char:EOLhyphen"/>quainted their Lordſhips with the occaſion of her requeſt, an eminent Divine (and now Biſhop) did inform their Lordſhips what were the Reaſons that mo<g ref="char:EOLhyphen"/>ved her Honour to believe that her Lord did indeed lay violent hands on him<g ref="char:EOLhyphen"/>ſelf, <hi>the Chief,</hi> if not the <hi>Only</hi> where of, was, <hi>That ſome ſho<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> time before my Lord's Commitment to the</hi> Tower, <hi>his Lordſhip ſeemed to be under a great concern of mind; but then declared, That the trouble he was in did not ariſe from any thoughts of Self-preſervation, for Himſelf was the leaſt of his Care; but the thoughts of his Fa<g ref="char:EOLhyphen"/>mily, what would after his Death become of them, was what did indeed trouble him: As for himſelf, be was reſolved what to do; SEVERAL TIMES VERY RESOL<g ref="char:V">Ʋ</g>TELY REPEATING THAT EXPRESSION,</hi> AS FOR MY SELF, I AM RESOLVED WHAT TO DO. This I was told by a Gentleman then preſent, who (as I have great reaſon to believe) would have repreſented every thing to the beſt advantage (as far as Truth would permit) on the behalf of ſuch Objections— So far that Letter.</p>
+            <p>This you find is not brought by Mr. <hi>Braddon</hi> as an argument to <hi>prove</hi> my Lord's being murther d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but on the <hi>contrary,</hi> rais'd by way of Objection <hi>againſt</hi> the Belief thereof; which Objection Mr. <hi>B.</hi> here ſaith, he received from <hi>One</hi> then preſent, but if that Gentleman (who is ſaid to have given the Informati<g ref="char:EOLhyphen"/>on) was <hi>miſtaken</hi> in his relation, the Author of the Letter <hi>for that</hi> deſerves no reflexions, and it can <hi>hardly</hi> be ſuppoſed that Mr. <hi>Braddon</hi> would (without ſome grounds) have <hi>rais'd</hi> ſuch a material <hi>objection</hi> (as this would have been, had it been true) <hi>againſt</hi> the proof of that <hi>Murther,</hi> for endeavouring the Detection whereof he hath been ſo barbarouſly treated by the Corruption of the late Miſ<g ref="char:EOLhyphen"/>government: neither hath the ſubſtance of what is here objected, been <hi>diſcredi<g ref="char:EOLhyphen"/>ted,</hi> (or at leaſt <hi>rejected</hi>) by thoſe who are and have ever been <hi>moſt zealous</hi> for ſtifling this Diſcovery. For how often have theſe Gentlemen in all publick Pla<g ref="char:EOLhyphen"/>ces, urg'd (in effect) the ſame (<hi>viz.</hi> the Counteſs and the Biſhop of <hi>Salisbury</hi>'s Belief of the Self murther, and their ſatisfying ſeveral Honourable Lords in the Truth thereof) as what ſhould <hi>convince</hi> all men of the <hi>reality</hi> of that <hi>Self-violent</hi>—. But this common, and (as theſe Men thought) unanſwerable Argu<g ref="char:EOLhyphen"/>ment for ſuch ſatisfaction, is now ſtruck <hi>dumb,</hi> being ſtript of its Credit, when thus <hi>ſolemnly and publickly entirely diſavow'd, and NOTHING TO THAT P<g ref="char:V">Ʋ</g>RPOSE having been upon that occaſion mentioned by either of thoſe two Honou<g ref="char:EOLhyphen"/>rable Perſons</hi>—. The Gentlemen who at firſt ſo hotly aſſaulted me <hi>upon reading this denyal, and the things deny'd,</hi> finding this to be the <hi>TR<g ref="char:V">Ʋ</g>E</hi> State of the Caſe, ſoon became more cool and ingenuouſly confeſs'd they had been impos'd upon, and before we parted did frankly acknowledge their raſhneſs in their re<g ref="char:EOLhyphen"/>flexions—wherefore they proteſted they began to doubt of the <hi>Truth of the Self-murther</hi> in the Belief whereof they before thought themſelves upon good grounds well convinced—. And hereupon they did deſire me to lend them that Diſcourſe, promiſing that they would read the whole, and without prejudice weigh what is therein ſaid to he prov'd—after they have done this, I doubt not but ſome, if not all of them, will be ſatisfy'd of the Truth of that moſt barbarous State-treache<g ref="char:EOLhyphen"/>ry a more cruel Murther than which (in all its relations conſider'd) this King<g ref="char:EOLhyphen"/>dom never ſaw. And that we never may ſee the like part acted over again, but that the Actors, Aiders, Abetters, and Concealers of this, may in this World receive their juſt Reward is the hearty Prayers of,</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>your very humble Servant, T. W.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>A Letter in Proof of the Murther of the late Earl of <hi>Eſſex,</hi> written by <hi>L. Braddon</hi> Gent. who was upwards of Five Years proſecuted and impriſon'd, for endeavouring to diſcover the ſame. Sold by most Bookſellers.</p>
+         </div>
+         <div type="colophon">
+            <p>London, <hi>Printed for the Author, 1690.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
